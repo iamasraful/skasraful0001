@@ -10,11 +10,10 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/skasraful2004/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-skasraful0001-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/skasraful2004/)
 [![Mail](https://img.shields.io/badge/Gmail-su162004@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:su162004@gmail.com)
 <br>
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/su162004)
+[![HackerRank](https://img.shields.io/badge/HackerRank-su162004-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/su162004)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Sk Asraful</strong></samp></h2> 
