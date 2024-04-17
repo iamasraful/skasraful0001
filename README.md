@@ -1,24 +1,14 @@
-<!--
-
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
-
-## technologies Icons 
-https://simpleicons.org/
-
--->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/skasraful0001?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Sk_Asraful-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/skasraful2004/)
 [![Mail](https://img.shields.io/badge/Gmail-su162004@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:su162004@gmail.com)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-Sk_Asraful-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/su162004)
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Sk Asraful</strong></samp></h2> 
 <p align='center'> <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" /> </p>
-<h3 align='center'><strong><a target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a target="_blank" href="https://skasraful0001.github.io/PRODIGY_WD_04/">Portfolio🌐</a></strong></h3>
 <p align='center'>Web developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
@@ -41,7 +31,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `Enzyme`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive web design`, `DOM`, `Styled Components`, `Object-Oriented Programming`, `Data structures and algorithms`, `DBMS`.
 
 
 🌍 **Deployment platforms:**<br>
